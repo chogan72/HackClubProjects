@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-image: url(../Pictures/111201.jpg);
+}
+body,td,th {
+	color: #000000;
+}
+</style>
+</head>
+
+<body text="#000000" link="#000000" vlink="#000000" alink="#000000">
+<div align="center"><img src="../Pictures/Hogans-Beach-Logo.png" width="348" height="167"></div>
+<div align="center"> <strong><a href="../index.html">Home</a> <a href="../About.html">About</a> <a href="../Shop.html">Shop</a> <a href="../Restraunt.html">Locations</a> <a href="../Contact.html">Contact</a></strong></div>
+<!-- TemplateBeginEditable name="Text" -->
+<p align="center" style="color:#000">&nbsp;</p>
+<!-- TemplateEndEditable -->
+<p align="center"><a href="http://www.facebook.com"><img src="../Pictures/facebook_image.jpg" width="36" height="36" alt="facebook">  </a><a href="http://www.twitter.com"><img src="../Pictures/twitter_image.jpg" width="36" height="36" alt="twitter"></a></p>
+</body>
+</html>
