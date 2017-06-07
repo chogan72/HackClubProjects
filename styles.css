@@ -1,5 +1,5 @@
 img{
-    Width: 200px;
+    Width: 25%;
 }
 
 body{
@@ -8,5 +8,5 @@ body{
 }
 
 p{
-    text-align: center;
+    font-size: small;
 }
